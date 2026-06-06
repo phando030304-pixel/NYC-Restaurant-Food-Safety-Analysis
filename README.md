@@ -29,4 +29,6 @@ The goal is to provide insights that help public health officials prioritize ins
 This project was completed as part of a data analytics case study from Analyst Builder.
 
 ## Author
-Hoang Do
+Hoang Do Phan  
+International Business Student at Thompson Rivers University  
+Aspiring Data Analyst & Business Analyst
